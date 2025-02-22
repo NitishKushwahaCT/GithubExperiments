@@ -3,3 +3,6 @@ From this file I am begining my project.
 
 Add nitishkushwaha as a collaborator.
 "creating a conflict"
+
+NitishKushwaha added as a collaborator
+Nitish here.
