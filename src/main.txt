@@ -1,5 +1,5 @@
-Hello I am Nitish
-From this file I am begining my project.
+Hello I am Nitishct
+From this file I am  my project.
 
 Add nitishkushwaha as a collaborator.
 "creating a conflict"
